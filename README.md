@@ -1,15 +1,21 @@
 # 👋 Olá, eu sou o Rodrigo Giulietti
 
-💻 Desenvolvedor Front-end com experiência em **JavaScript moderno**, **React**, **Astro** e **UI/UX focado em performance e experiência do usuário**. Atualmente expandindo minha atuação para **Full Stack**, integrando APIs, bancos de dados e meios de pagamento.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-giulietti/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rodrigo.giulietti05@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+💻 Desenvolvedor Front-end com experiência em **JavaScript moderno**, **React**, **Astro** e **UI/UX focado em performance e experiência do usuário**. Atualmente expandindo minha atuação para **Full Stack**, integrando APIs e bancos de dados.
 
 ---
 
 ## 🚀 Sobre mim
 
 * 🎯 Foco em criar interfaces modernas, rápidas e intuitivas
-* 🧠 Perfil autodidata, sempre estudando boas práticas e arquitetura
+* 🧠 Perfil autodidata, estudando boas práticas e arquitetura
 * 🔥 Experiência com projetos reais, acadêmicos e freelas
 * 🛠️ Interesse em SaaS, sistemas administrativos e e-commerces
+* 🎓 Atualmente cursando graduação na área de tecnologia, com foco em desenvolvimento web e construção de aplicações Full Stack.
 
 ---
 
@@ -59,16 +65,9 @@
 
 Atualmente focado em:
 
-* Aprimorar JavaScript avançado (HOFs, Fetch API, DOM)
-* Arquitetura de aplicações Full Stack
-* Boas práticas de código e performance
-
----
-
-## 📫 Onde me encontrar
-
-* 💬 LinkedIn: [linkedin.com/in/rodrigo-giulietti](https://linkedin.com/in/rodrigo-giulietti/)
-* 📧 Email: [rodrigo.giulietti05@gmail.com](mailto:rodrigo.giulietti05@gmail.com)
+* Aperfeiçoar habilidades em **React**, criando interfaces modernas, performáticas e escaláveis
+* Evoluir como **Full Stack Developer**, integrando Front-end, Back-end e bancos de dados
+* Aplicar **boas práticas de código**, arquitetura e performance em projetos reais
 
 ---
 
