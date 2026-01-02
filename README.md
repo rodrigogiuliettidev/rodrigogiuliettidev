@@ -49,9 +49,9 @@
 
 ## 📊 GitHub Stats
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigogiuliettidev\&show_icons=true\&theme=tokyonight)
+[![Rodrigo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rodrigogiuliettidev&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogiuliettidev\&layout=compact\&theme=tokyonight)
+[![Streak Card](https://github-readme-stats-fast.vercel.app/api/streak/?username=rodrigogiuliettidev&layout=compact&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
