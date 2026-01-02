@@ -5,17 +5,18 @@
   <a href="mailto:rodrigo.giulietti05@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-💻 Desenvolvedor Front-end com experiência em **JavaScript moderno**, **React**, **Astro** e **UI/UX focado em performance e experiência do usuário**. Atualmente expandindo minha atuação para **Full Stack**, integrando APIs e bancos de dados.
+💻 Desenvolvedor Front-end com sólida experiência em **e-commerce**, atuando em projetos profissionais e freelances. Possuo experiência na construção de **web apps** e **SaaS**, desenvolvendo soluções próprias com foco em aprendizado contínuo e potencial de se tornarem produtos reais. Trabalho com **JavaScript**, **Next.js + React**, **Astro** e **UI/UX orientado à performance e experiência do usuário**, atualmente expandindo minha atuação e estudos para **Full Stack**, criando APIs, servidores e integrações com bancos de dados.
+
 
 ---
 
 ## 🚀 Sobre mim
 
-* 🎯 Foco em criar interfaces modernas, rápidas e intuitivas
-* 🧠 Perfil autodidata, estudando boas práticas e arquitetura
+* 🎓 Atualmente cursando graduação na área de tecnologia, com foco em desenvolvimento web e construção de aplicações Full Stack.
 * 🔥 Experiência com projetos reais, acadêmicos e freelas
 * 🛠️ Interesse em SaaS, sistemas administrativos e e-commerces
-* 🎓 Atualmente cursando graduação na área de tecnologia, com foco em desenvolvimento web e construção de aplicações Full Stack.
+* 🎯 Foco em criar interfaces modernas, rápidas e intuitivas
+* 🧠 Perfil autodidata, estudando boas práticas e arquitetura
 
 ---
 
